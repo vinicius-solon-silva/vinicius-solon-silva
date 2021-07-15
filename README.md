@@ -13,9 +13,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/vinicius solon silva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vinicius solon silva" height="30" width="40" /></a>
-<a href="https://fb.com/vinicius solon silva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="vinicius solon silva" height="30" width="40" /></a>
-<a href="https://instagram.com/@vinicius.solon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@vinicius.solon" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/vinicius-solon-silva-978702174" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vinicius solon silva" height="30" width="40" /></a>
+<a href="https://fb.com/vinicius.solonsilva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="vinicius solon silva" height="30" width="40" /></a>
+<a href="https://instagram.com/vinicius.solon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@vinicius.solon" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
