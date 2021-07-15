@@ -1,9 +1,15 @@
 <h1 align="center">Hi 👋, I'm Vinicius Solon!</h1>
 <h3 align="center">A student of System Analysis and Development and Intern at Kumulus Cloud & Data.</h3>
 
-- 📫 How to reach me **vinicius.solonsilva@hotmail.com**
+- 📫 How to reach me: **vinicius.solonsilva@hotmail.com**
 
-- ⚡ Fun fact **I like bodybuilding and strenght oriented sports 😎**
+- ⚡ Fun fact: **I like bodybuilding and strenght oriented sports 😎**
+
+## My GitHub Stats
+![Vinicius Solon Silva's GitHub stats](https://github-readme-stats.vercel.app/api?username=vinicius-solon-silva&theme=algolia&show_icons=true)
+
+## My most used languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vinicius-solon-silva&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
