@@ -31,9 +31,7 @@
 <br>
 <br>
 <br>
-<br>
-<br>
-<br>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -44,9 +42,7 @@
 
 <hr>
 <br>
-<br>
-<br>
-<br>
+
 
 
 <h3 align="left">Languages and Tools:</h3>
