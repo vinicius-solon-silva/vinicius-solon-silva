@@ -8,13 +8,13 @@
 <h2 align="center">My GitHub Stats</h2>
 
 <p align="center">
-[!Vinicius Solon Silva's GitHub stats](https://github-readme-stats.vercel.app/api?username=vinicius-solon-silva&theme=algolia&show_icons=true)
+[![Vinicius Solon Silva's GitHub stats](https://github-readme-stats.vercel.app/api?username=vinicius-solon-silva&theme=algolia&show_icons=true)
 </p>
 
 <h2 align="center">My top 5 most used languages</h2>
 
 <p align="center">
-[!Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vinicius-solon-silva&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vinicius-solon-silva&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
 </p>
 
 
