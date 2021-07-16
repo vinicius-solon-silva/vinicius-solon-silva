@@ -7,15 +7,15 @@
 
 - ⚡ Fun fact: **I like bodybuilding and strenght oriented sports 😎**
 
+<p>
+<img align="center" src="https://media.giphy.com/media/3o7TKH6LSHV6m71bpu/giphy.gif" alt="nonsene" />
+</p>
+
 
 <h2 align="center">My GitHub Stats</h2>
 
 <p>
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=vinicius-solon-silva&theme=algolia&show_icons=true" alt="nonsene" />
-</p>
-
-<p>
-<img align="center" src="https://media.giphy.com/media/3o7TKH6LSHV6m71bpu/giphy.gif" alt="nonsene" />
 </p>
 
 <p>
@@ -37,5 +37,6 @@
 
 <h2 align="center">---=== Gatter around, fellow dev ===---</h2>
 
+<p>
 <img src='https://media.giphy.com/media/xUOrw01a1gy7BUwq40/giphy.gif' alt='campfire' height='450' align='center'>
-![space](https://media.giphy.com/media/ik2KBT1a6IUvu/giphy.gif)
+</p>
