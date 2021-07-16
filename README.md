@@ -55,7 +55,7 @@
 <br>
 <br>
 
-<h2 align="center">---=== Gatter around, fellow dev ===---</h2>
+<h2 align="center">---=== Gather around, fellow dev ===---</h2>
 
 <p align="center">
   <img src='https://media.giphy.com/media/xUOrw01a1gy7BUwq40/giphy.gif' alt='campfire' height='450' align='center'>
