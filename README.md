@@ -5,7 +5,7 @@
 
 - 📫 How to reach me: **vinicius.solonsilva@hotmail.com**
 
-- ⚡ Fun fact: **I like bodybuilding and strenght oriented sports 😎**
+- ⚡ Fun fact: **I like bodybuilding and strength oriented sports 😎**
 
 <p align="center">
   <img align="center" src="https://media.giphy.com/media/3o7TKH6LSHV6m71bpu/giphy.gif" alt="nonsene" />
