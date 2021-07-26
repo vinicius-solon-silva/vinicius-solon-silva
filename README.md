@@ -20,5 +20,3 @@
 
 <p align="center"><img align="left" src="https://github-readme-stats.vercel.app/api?username=vinicius-solon-silva&theme=blue-green&show_icons=true" alt="nonsene" /></p>
 <p align="center"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinicius-solon-silva&theme=blue-green" alt="nonsene" /></p>
-
-<hr>
