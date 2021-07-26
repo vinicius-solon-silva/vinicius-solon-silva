@@ -2,7 +2,7 @@
 ### A student of System Analysis and Development and Intern at Kumulus Cloud & Data.
 
 📫 How to reach me: 
-- [![Vinicius's Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](vinicius.solonsilva@hotmail.com)
+- [![Vinicius's Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white&link=mailto:vinicius.solonsilva@hotmail.com)](mailto:vinicius.solonsilva@hotmail.com)
 - [![Vinicius's LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vinicius-solon-silva-978702174)
 - [![Vinicius's Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://fb.com/vinicius.solonsilva)
 - [![Vinicius's Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/vinicius.solon)
