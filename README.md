@@ -1,5 +1,3 @@
-
-
 # Hi 👋, I'm Vinicius Solon!
 ### A student of System Analysis and Development and Intern at Kumulus Cloud & Data.
 
@@ -11,16 +9,16 @@
 
 ⚡ Fun fact: **I like bodybuilding and strength oriented sports 😎**
 
+<hr>
 
 ## My GitHub Stats
 
-<p align="center">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=vinicius-solon-silva&theme=algolia&show_icons=true" alt="nonsene" />
-</p>
 
-<p align="center">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinicius-solon-silva&theme=nightowl" alt="nonsene" />
-</p>
+[![Vinicius Solon's github stats](https://github-readme-stats.vercel.app/api?username=vinicius-solon-silva&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Vinicius Solon's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vinicius-solon-silva&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+
+<hr>
 
 
 ## Languages and Tools
