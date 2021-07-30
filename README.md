@@ -1,5 +1,6 @@
 # Hi 👋, I'm Vinicius Solon!
-### A student of System Analysis and Development and Intern at Kumulus Cloud & Data.
+<p align="right"><strong> A student of System Analysis and Development and Intern at Kumulus Cloud & Data <strong></p>
+<p align="right"><img align="right" src="https://cdn.dribbble.com/users/2579950/screenshots/6513091/cloud_400x300.gif"/></p>
 
 📫 How to reach me: 
 - [![Vinicius's Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white&link=mailto:vinicius.solonsilva@hotmail.com)](mailto:vinicius.solonsilva@hotmail.com)
