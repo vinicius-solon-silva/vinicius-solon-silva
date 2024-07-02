@@ -1,5 +1,5 @@
 # Hi 👋, I'm Vinicius Solon!
-<p align="left"><strong> A student of System Analysis and Development and Cloud Analyst Jr at Kumulus Cloud & Data <strong></p>
+<p align="left"><strong> DevSecOps and Cloud Analyst <strong></p>
 <p align="right"><img align="right" src="https://cdn.dribbble.com/users/2579950/screenshots/6513091/cloud_400x300.gif"/></p>
 
 📫 How to reach me: 
