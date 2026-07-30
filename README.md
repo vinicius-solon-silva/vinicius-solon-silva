@@ -1,24 +1,173 @@
-# Hi 👋, I'm Vinicius Solon!
-<p align="left"><strong> DevSecOps and Cloud Analyst <strong></p>
-<p align="right"><img align="right" src="https://cdn.dribbble.com/users/2579950/screenshots/6513091/cloud_400x300.gif"/></p>
+<div align="center">
 
-📫 How to reach me: 
-- [![Vinicius's Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white&link=mailto:vinicius.solonsilva@hotmail.com)](mailto:vinicius.solonsilva@hotmail.com)
-- [![Vinicius's LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vinicius-solon-silva-978702174)
-- [![Vinicius's Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://fb.com/vinicius.solonsilva)
-- [![Vinicius's Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/vinicius.solon)
+# 👋 Hi there, I'm Vinicius Solon
+### ☁️ Cloud Engineer • ☸️ Platform Engineering • 🔐 DevSecOps
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=900&lines=Cloud+Engineer;Platform+Engineering;Azure+%7C+AWS;Kubernetes+%7C+Helm;Terraform+%7C+IaC;CI%2FCD+Automation;GitOps;DevSecOps;Observability;Always+learning+something+new+%F0%9F%9A%80" />
 
 <br>
-<br>
-<br>
-<br>
 
-## Languages and Tools
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>  </p>
+<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="700"/>
 
+</div>
 
+---
 
-## My GitHub Stats
+# 🚀 About Me
 
-<p align="center"><img align="left" src="https://github-readme-stats.vercel.app/api?username=vinicius-solon-silva&theme=algolia&show_icons=true" alt="nonsene" /></p>
-<p align="center"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinicius-solon-silva&theme=algolia" alt="nonsene" /></p>
+```yaml
+name: Vinicius Solon
+
+role:
+  - Cloud Engineer
+  - DevSecOps Engineer
+  - Platform Engineering Enthusiast
+
+location: Campinas - Brazil
+
+passions:
+  - Cloud Computing
+  - Kubernetes
+  - Infrastructure as Code
+  - DevSecOps
+  - Platform Engineering
+  - Automation
+  - CI/CD
+  - Observability
+
+currently_learning:
+  - Advanced Kubernetes
+  - Cloud Architecture
+  - Software Delivery
+  - Platform Engineering
+
+```
+
+---
+
+# 💡 What I Do
+- ☁️ Build cloud-native platforms
+- ☸️ Design Kubernetes deployment strategies
+- 📦 Create and maintain Helm Charts
+- 🚀 Build scalable CI/CD pipelines
+- 🏗️ Provision infrastructure using Terraform
+- 🔄 Implement GitOps workflows
+- 📊 Improve observability using Grafana, Loki and Prometheus
+- 🔐 Apply DevSecOps best practices
+- ⚡ Automate repetitive operational tasks
+- 🤝 Help development teams deliver software faster
+
+---
+
+# 🛠 Tech Stack
+## ☁️ Cloud
+<p>
+  <img src="https://skillicons.dev/icons?i=azure,aws"/>
+</p>
+
+## ☸️ Containers & Platform
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes"/>
+  <img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white"/>
+  <img src="https://img.shields.io/badge/KEDA-326CE5?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Istio-466BB0?style=for-the-badge"/>
+</p>
+
+---
+
+## 🏗 Infrastructure as Code
+
+<p>
+  <img src="https://skillicons.dev/icons?i=terraform"/>
+  <img src="https://img.shields.io/badge/Terraform%20Cloud-623CE4?style=for-the-badge&logo=terraform"/>
+</p>
+
+---
+
+## 🚀 DevOps
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,bash,linux"/>
+  <img src="https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azuredevops"/>
+  <img src="https://img.shields.io/badge/GitOps-326CE5?style=for-the-badge"/>
+</p>
+
+---
+
+## 💻 Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,powershell"/>
+  <img src="https://img.shields.io/badge/YAML-CB171E?style=for-the-badge"/>
+</p>
+
+---
+
+## 📈 Monitoring & Observability
+
+<p>
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Loki-0A0A0A?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ELK-005571?style=for-the-badge&logo=elastic"/>
+</p>
+
+---
+
+## 🗄 Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql"/>
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver"/>
+</p>
+
+---
+
+# 📚 Certifications
+
+🏅 Microsoft Azure Fundamentals
+🏅 Microsoft Azure Data Fundamentals
+🏅 Linux Essentials
+🏅 Elastic Stack Total
+
+---
+
+# 📈 GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=vinicius-solon-silva&theme=tokyonight&hide_border=true"/>
+</div>
+
+---
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vinicius-solon-silva&theme=tokyo-night&hide_border=true"/>
+</div>
+
+---
+
+# 🤝 Let's Connect
+
+<p align="center">
+<a href="mailto:vinicius.solonsilva@hotmail.com">
+  <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/vinicius-solon-silva-978702174">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://github.com/vinicius-solon-silva">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+</p>
+
+---
+
+<div align="center">
+
+![](https://komarev.com/ghpvc/?username=vinicius-solon-silva&style=for-the-badge&color=blue)
+
+### ⭐ Thanks for visiting!
+
+*"The best infrastructure is the one nobody notices because everything simply works."*
+
+</div>
