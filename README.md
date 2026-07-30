@@ -60,12 +60,11 @@ currently_learning:
 ---
 
 # 🛠 Tech Stack
-## ☁️ Cloud
+
 <p>
   <img src="https://skillicons.dev/icons?i=azure,aws"/>
 </p>
 
-## ☸️ Containers & Platform
 <p>
   <img src="https://skillicons.dev/icons?i=docker,kubernetes"/>
   <img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white"/>
@@ -73,36 +72,21 @@ currently_learning:
   <img src="https://img.shields.io/badge/Istio-466BB0?style=for-the-badge"/>
 </p>
 
----
-
-## 🏗 Infrastructure as Code
-
 <p>
   <img src="https://skillicons.dev/icons?i=terraform"/>
   <img src="https://img.shields.io/badge/Terraform%20Cloud-623CE4?style=for-the-badge&logo=terraform"/>
 </p>
 
----
-
-## 🚀 DevOps
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,bash,linux"/>
   <img src="https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azuredevops"/>
   <img src="https://img.shields.io/badge/GitOps-326CE5?style=for-the-badge"/>
 </p>
 
----
-
-## 💻 Languages
-
 <p>
   <img src="https://skillicons.dev/icons?i=python,powershell"/>
   <img src="https://img.shields.io/badge/YAML-CB171E?style=for-the-badge"/>
 </p>
-
----
-
-## 📈 Monitoring & Observability
 
 <p>
   <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
@@ -110,10 +94,6 @@ currently_learning:
   <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"/>
   <img src="https://img.shields.io/badge/ELK-005571?style=for-the-badge&logo=elastic"/>
 </p>
-
----
-
-## 🗄 Databases
 
 <p>
   <img src="https://skillicons.dev/icons?i=postgres,mysql"/>
