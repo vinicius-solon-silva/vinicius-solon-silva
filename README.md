@@ -105,22 +105,12 @@ currently_learning:
 # 📚 Certifications
 
 🏅 Microsoft Azure Fundamentals
+
 🏅 Microsoft Azure Data Fundamentals
+
 🏅 Linux Essentials
+
 🏅 Elastic Stack Total
-
----
-
-# 📈 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=vinicius-solon-silva&theme=tokyonight&hide_border=true"/>
-</div>
-
----
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vinicius-solon-silva&theme=tokyo-night&hide_border=true"/>
-</div>
 
 ---
 
