@@ -138,6 +138,4 @@ currently_learning:
 
 ### ⭐ Thanks for visiting!
 
-*"The best infrastructure is the one nobody notices because everything simply works."*
-
 </div>
